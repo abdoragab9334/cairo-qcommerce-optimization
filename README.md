@@ -3,7 +3,7 @@
 Spatial data engineering project that identifies optimal locations for opening
 3 new dark stores / delivery hubs in Cairo, Egypt — maximizing coverage of new
 areas while minimizing revenue cannibalization from existing stores.
-
+![Result Map](docs/map_preview.png)
 ## Problem
 
 Q-commerce and delivery companies expanding a store network face a trade-off:
